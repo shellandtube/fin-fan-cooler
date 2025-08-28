@@ -53,10 +53,8 @@ The **Fin-Fan Cooler** is an industrial air-cooled heat exchanger designed to ef
 - **Corrosion Protection**: Apply protective coatings to prevent corrosion, especially in coastal environments.
 - **Emergency Procedures**: Establish and communicate emergency shutdown procedures in case of system failure.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For further information or inquiries, please contact [support@finfancooler.com](mailto:support@finfancooler.com).
+For further information or inquiries, please contact [enquiry@heatexchanger.co.in](mailto:enquiry@heatexchanger.co.in).
