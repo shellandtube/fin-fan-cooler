@@ -7,7 +7,7 @@ Welcome to the official repository showcasing **FinFanCooler heat exchangers and
 ## Heat Exchangers
 
 ### 1. [Pressure Vessels](https://www.finfancooler.com/Heat-Exchanger/Pressure-vessels)
-![Pressure Vessels](https://www.finfancooler.com/images/pressure-vessels.jpg)
+![Pressure Vessels]
 
 ### 2. [Air-Cooled Heat Exchanger](https://www.finfancooler.com/Heat-Exchanger/Air-Cooled-Heat-Exchanger/)
 ![Air-Cooled Heat Exchanger](https://www.finfancooler.com/images/air-cooled-heat-exchanger.jpg)
