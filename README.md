@@ -1,6 +1,4 @@
 # fin-fan-cooler
-# Fin-Fan Cooler
-
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)]()
 
